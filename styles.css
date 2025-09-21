@@ -1,0 +1,29 @@
+.header {
+   display: flex;
+   justify-content: center;
+}
+
+
+.nav {
+    background-color:antiquewhite;
+    width: 100%; 
+}
+
+.nav ul {
+    list-style:none;
+    display:flex;
+    justify-content: center;
+    gap: 16px;
+}
+
+.nav ul li {
+    background-color: aquamarine;
+    color:rgb(165, 111, 39);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+#main-header {
+    font-size: 46px;git add
+    color:rgb(253, 78, 194);
+}
